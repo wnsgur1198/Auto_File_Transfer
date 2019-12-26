@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_File_Transfer_Program", "Auto_File_Transfer_Program\Auto_File_Transfer_Program.csproj", "{4C5C4F4F-BD1C-4A16-9FBC-1FE8779DA68A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AFT_Setup", "AFT_Setup\AFT_Setup.vdproj", "{222C1E31-364D-4A62-A010-DA8063D92001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5C4F4F-BD1C-4A16-9FBC-1FE8779DA68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5C4F4F-BD1C-4A16-9FBC-1FE8779DA68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5C4F4F-BD1C-4A16-9FBC-1FE8779DA68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5C4F4F-BD1C-4A16-9FBC-1FE8779DA68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222C1E31-364D-4A62-A010-DA8063D92001}.Debug|Any CPU.ActiveCfg = Debug
+		{222C1E31-364D-4A62-A010-DA8063D92001}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BCAC91-3637-4F62-87D7-C95D43C18B71}
+	EndGlobalSection
+EndGlobal
