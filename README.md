@@ -3,8 +3,6 @@
 
 ![](readme-img/header.png)
 
-![](readme-img/header2.png)
-
 ## 개발기간
 * 2019.05.07.~2019.08.19. (약3개월)
 
