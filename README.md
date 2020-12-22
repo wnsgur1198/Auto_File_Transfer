@@ -1,7 +1,7 @@
 # Auto_File_Transfer
 > 학부생 3학년 1학기 때 건양대 정형외과 소속 교수로부터 의뢰 받아 개발한 자동파일전송프로그램
 
-![](readme-img/header.png)
+![](readme-img/header1.png)
 
 ## 개발기간
 * 2019.05.07.~2019.08.19. (약3개월)
